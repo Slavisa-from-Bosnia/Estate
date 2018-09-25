@@ -7,8 +7,13 @@
     "@material-ui/icons": "^3.0.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+<<<<<<< HEAD
     "react-google-map": "^3.1.1",
     "react-google-maps": "^9.4.5",
+=======
+    "react-google-maps": "^9.4.5",
+    "react-google-maps-loader": "^4.2.3",
+>>>>>>> 6a23e19657074b0de51ecaed586ee4cb27c9022f
     "react-scripts": "1.1.5",
     "typeface-roboto": "0.0.54"
   },
