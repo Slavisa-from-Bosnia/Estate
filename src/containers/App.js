@@ -2,11 +2,9 @@ import React, { Component } from 'react';
 import logo from '../logo.svg';
 import './App.css';
 import ImgMediaCard from '../components/cards';
-<<<<<<< HEAD
+
 import Map from '../components/googleMaps';
-=======
-import GoogleMapLoader from '../components/googleMaps';
->>>>>>> 6a23e19657074b0de51ecaed586ee4cb27c9022f
+
 
 class App extends Component {
   render() {
@@ -18,11 +16,7 @@ class App extends Component {
         </header>
         <ImgMediaCard/>
         <ImgMediaCard/>
-<<<<<<< HEAD
          <Map/>
-=======
-       <GoogleMapLoader></GoogleMapLoader>
->>>>>>> 6a23e19657074b0de51ecaed586ee4cb27c9022f
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
